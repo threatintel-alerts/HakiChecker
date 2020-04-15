@@ -17,12 +17,12 @@ result_hash_name = "result_hash.csv" #save result for hash here
 fraudGuardKeys = "fraudguard_keys.txt"
 
 # API KEYS
-vt_apikey = "ff6716d276e32e90ba96a04881c535e662825a1aae782209f03a6169bc9a6fe5"
-abip_apikey = "07f972b1a679e8b2cf155b3afcb9a4b8590b7d7e5d1ac069c7f856e6dda1dd715a37c973a4a02163"
-ibm_auth = '2ed7d512-b1de-4a59-8d4f-13213479ddea:db180dab-bd0c-4c0a-a49c-d1b1539ae942'
-urlscan_apikey = "a2cab6be-3683-4e26-bd06-d8d28a04df49"
-google_apikey = "AIzaSyCOtfdSlBjvA2bLKB42yjWB3YzkVNuFffY"
-auth0_apikey = "8f81827f-6d43-43c1-8545-a13b88b82ef3"
+vt_apikey = "API KEY"
+abip_apikey = "API KEY"
+ibm_auth = 'APIKEY:APIPASSWORD'
+urlscan_apikey = ""
+google_apikey = "API KEY"
+auth0_apikey = "API KEY"
 
 # function to save result in csv file
 def saveRecord(data, formula):
