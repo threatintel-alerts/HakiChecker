@@ -1,4 +1,4 @@
-drive = C:/Users/seko/Downloads/chromedriver.exe
+drive =
 
 [Virus Total]
 vt_key =
